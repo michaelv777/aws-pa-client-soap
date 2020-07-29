@@ -66,13 +66,13 @@ public class AmazonClientWorker
 	/*
      * The AWS Access Key ID that corresponds to the identity you wish to use.
      */
-    private static final String AWS_ACCESS_KEY_ID = "AKIAIQU2FHPYCZDYXCIA";
+    private static final String AWS_ACCESS_KEY_ID = "";
     
     /*
      * The AWS Secret Key ID.
      */
     @SuppressWarnings("unused")
-	private static final String AWS_SECRET_KEY    = "k9TUoikDHilxh11Ukrxl9PN1h4KxgQIpQ2HozC7w";
+	private static final String AWS_SECRET_KEY    = "";
     
     /*
      * The AWS Assosiate Tag.
